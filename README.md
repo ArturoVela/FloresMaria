@@ -16,7 +16,7 @@ El 21 de septiembre es un día especial que conmemora la llegada de la primavera
 ### 🌐 Visita la Página
 <p align="center">
   <a href="flores-maria.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/-Visitar_Página-00c853?style=for-the-badge&logo=google-chrome" alt="Visitar Flores María" />
+    <img src="https://img.shields.io/badge/🌐-Visitar_Página-00c853?style=for-the-badge&logo=google-chrome" alt="Visitar Flores María" />
   </a>
 </p>
 
