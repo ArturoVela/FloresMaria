@@ -8,7 +8,7 @@ const sunFlowerImg = new Image();
 const roseImg = new Image();
 
 // Load the sunflower SVG image
-sunFlowerImg.src = 'pgmea1036.webp';
+sunFlowerImg.src = 'img/Flor.webp';
 
 // Flower constructor
 function Flower(x, y, scale, opacity, rotation) {
